@@ -25,7 +25,7 @@ const LandingPage = () => {
   </a>
 
   {/* Navigation Links */}
-  <div className="space-x-6 text-lg text-blue-900">
+  <div className="space-x-8 text-lg text-blue-900">
     <Link
       to="/"
       className="hover:text-pink-500 transition duration-300 ease-in-out"
@@ -85,7 +85,7 @@ const LandingPage = () => {
     </h1>
 
     {/* Subtitle */}
-    <p className="text-lg md:text-2xl font-medium mb-8 max-w-4xl">
+    <p className="text-lg md:text-2xl  font-medium mb-8 max-w-4xl">
       Immerse yourself in a world of inspiration and creativity. Start shaping your vision for tomorrow today.
     </p>
 
