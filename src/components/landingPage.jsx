@@ -7,7 +7,7 @@ import Video2 from "./Video2";
 import Client from "./clients";
 // import cell from "../assets/images/cell.jpeg"
 
-// import view from "../assets/images/view.jpeg"
+// import view from "../assets/images/view.jpeg"ll
 
 const LandingPage = () => {
   return (
