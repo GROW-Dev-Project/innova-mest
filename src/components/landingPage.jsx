@@ -17,7 +17,7 @@ const LandingPage = () => {
         backgroundImage:
           "url('https://cdn.pixabay.com/photo/2014/12/03/17/51/girl-555657_640.jpg')",
       }}
-    >
+    > 
       {/* Navigation Bar */}
 
       <Header />
